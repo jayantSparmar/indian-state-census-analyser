@@ -3,8 +3,8 @@ package com.bridgelabz;
 /**********************************************************
  * Program on User Registration Using Regex
  *
- * @author : Shubham Pawar
- * @since : 14/04/2022
+ * @author : Jayant Singh Pqrmar
+ * @since : 15/04/2022
  **********************************************************/
 
 /**
